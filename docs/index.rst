@@ -3,14 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to iCure's documentation!
-=================================
+Bienvenue dans la documentation iCure !
+=======================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-   page1
+   Comment utiliser ce manuel ?
 
 
 
