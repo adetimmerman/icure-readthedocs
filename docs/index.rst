@@ -10,7 +10,7 @@ Bienvenue dans la documentation iCure !
    :maxdepth: 2
    :caption: Contents:
 
-   Comment utiliser ce manuel ?
+   comment_utiliser_ce_manuel
 
 
 
