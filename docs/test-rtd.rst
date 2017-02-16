@@ -2,7 +2,8 @@
 Test RTD
 ========
 
-Ceci est un test
+Directives
+----------
 
 .. attention::
 	Attention : this is a test message !
@@ -30,3 +31,10 @@ Ceci est un test
 
 .. warning::
 	Si vous faites ça, ça va exploser
+
+Admonition
+----------
+
+.. admonition:: Procédures
+
+	Test de procédure
