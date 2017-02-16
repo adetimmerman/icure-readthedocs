@@ -1,6 +1,6 @@
-################################
-II. Comment utiliser ce manuel ?
-################################
+############################
+Comment utiliser ce manuel ?
+############################
 
 Cet ouvrage se scinde en plusieurs parties qui expliquent les fonc- tionnalités de base du logiciel jusqu’aux fonctionnalités les plus pointues.
 
