@@ -1,4 +1,6 @@
 # File to ignore
+Makefile
+conf.py
 
 # Folders to ignore
 _build
