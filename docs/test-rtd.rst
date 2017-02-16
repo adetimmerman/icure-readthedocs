@@ -38,3 +38,5 @@ Admonition
 .. admonition:: Procédures
 
 	Test de procédure
+
+Autre paragraphe tout à fait normal et en dehors du reste
