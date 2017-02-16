@@ -11,6 +11,7 @@ Bienvenue dans la documentation iCure !
    :caption: Contents:
 
    comment_utiliser_ce_manuel
+   test-rtd
 
 
 
