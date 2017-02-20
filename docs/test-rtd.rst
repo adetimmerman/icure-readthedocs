@@ -2,6 +2,8 @@
 Test RTD
 ========
 
+Ceci est un message de test
+
 Directives
 ----------
 
