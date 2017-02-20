@@ -63,7 +63,12 @@ Installer iCure
 
 Voici comment procéder à l’installation de iCure sur votre Macintosh.
 
-.. admonition:: Pour installer iCure :
+.. attention::
+
+  Ceci est la procédure pour l'ancien iCure (3.7.2)
+  Il n'y a pas encore de solution simple pour l'installation d'iCure 4
+
+.. admonition:: Pour installer iCure
 
   1. Double-cliquez sur l’image iCure.dmg.
   2. Glissez l’icône iCure dans le dossier Applications.
@@ -74,3 +79,48 @@ Voici comment procéder à l’installation de iCure sur votre Macintosh.
   7. Introduisez vos coordonnées.
   8. Introduisez un login et un mot de passe pour ren- trer dans iCure.
   9. Appuyez sur démarrer.
+
+.. COMMENTAIRE - Il faut ajouter ici une nouvelle procédure pour le premier lancement
+  après installation, avec des captures d'écran.
+
+Accéder à iCure
+===============
+
+A chaque fois que vous démarrez le programme, vos login et mot de passe vous sont demandés. Le but est de garantir la confidential- ité des dossiers patients. De cette manière, ils ne seront consulta- bles que par les personnes possédant un nom d’utilisateur et un mot de passe.
+
+.. admonition:: Pour accéder à iCure
+
+  1. Double-cliquez sur l'icône d'iCure pour démarrer le logiciel, une fenêtre de connexion apparaît.
+  2. Introduisez votre nom d’utilisateur et votre mot de passe dans les champs adéquats.
+  3. Cliquez sur « Login ».
+
+.. image:: images/login.png
+
+iCure en un coup d'oeil
+=======================
+
+Ouvrez plusieurs fenêtres à la fois (raccourci «⌘-N»). Cette possibilité d’ouverture simultanée de fenêtres iCure permet, par exemple, de travailler sur un dossier patient tout en visualisant la fiche administrative de son médecin, d’ouvrir plusieurs dossiers en même temps...
+
+La fenêtre iCure
+----------------
+
+.. image:: images/main_window.png
+
+1. La **barre de sélection des modules** sert à passer d’un module à l’autre.
+2. La **barre d’outils** permet d’effectuer une série d’actions propres à chaque module.
+3. Le **champ de recherche** permet de retrouver des éléments et d’effectuer une sélection sur base de critères pré déterminés.
+4. L’**inspecteur** permet de faire apparaître la fenêtre Sélection qui propose certaines actions de configuration.
+5. Cette **colonne de gauche** permet d’agir dans le module choisi ou encore sur la hiérarchie d’un dossier patient sélectionné. De cette colonne, il est possible d’accéder aux différents éléments de la structure interne du module.
+6. La **fenêtre principale** permet de remplir les champs et donc de compléter iCure.
+7. Les **boutons d’actions** permettent d’ajouter ou supprimer des éléments et proposent une série de fonctions.
+
+.. Trouver comment insérer une image des boutons d'actions dans le numéro 7
+
+La colonne de gauche dans un dossier patient
+--------------------------------------------
+
+Utilisation de l'inspecteur
+---------------------------
+
+Les préferences iCure
+---------------------
