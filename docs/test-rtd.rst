@@ -4,6 +4,10 @@ Test RTD
 
 Ceci est un message de test
 
+Images :
+
+.. image:: images/login.png
+
 Directives
 ----------
 
