@@ -12,6 +12,7 @@ Bienvenue dans la documentation iCure !
 
    comment_utiliser_ce_manuel
    bienvenue_dans_icure
+   trouver_ses_reperes
    test-rtd
 
 
