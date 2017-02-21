@@ -119,31 +119,60 @@ La fenêtre iCure
 La colonne de gauche dans un dossier patient
 --------------------------------------------
 
-**Fiche administrative** : Accès à la fiche administrative du patient.
+|icon_f_a| **Fiche administrative** : Accès à la fiche administrative du patient.
 
-**Résumé Patient** : Visualisation du contenu du dossier. Médecins : Visualisation des médecins le traitant.
+|icon_r_p| **Résumé Patient** : Visualisation du contenu du dossier. Médecins : Visualisation des médecins le traitant.
 
-**Fichiers** : Visualisation des différents fichiers contenus dans le dossier.
+|icon_files| **Fichiers** : Visualisation des différents fichiers contenus dans le dossier.
 
-**Planning** : Visualisation des rappels.
+|icon_planning| **Planning** : Visualisation des rappels.
 
-**Carnet de vaccinations** : Visualisation des vaccins.
+|icon_vaccines| **Carnet de vaccinations** : Visualisation des vaccins.
 
-Médicaments : Visualisation des prescriptions réalisées. Transactions : Visualisation des différents services effectués.
+|icon_medicaments| **Médicaments** : Visualisation des prescriptions réalisées. Transactions : Visualisation des différents services effectués.
 
-Boîte aux lettres (Inbox) : Visualisation les résultats de laboratoire.
+**Boîte aux lettres (Inbox)** : Visualisation les résultats de laboratoire.
 
-Elément de soin : Visualisation des démarches et des services que ces dernières contiennent effectués concernant ce problème de santé.
+.. caution::
 
-Démarche : sous-section de l'élément de soin contenant des services.
+  La fonction de **Boîte aux lettres (Inbox)** ne semble plus être disponible pour le moment dans la version 4.0.0
 
-Document finalisé : document imprimé.
+|icon_element_de_soin| **Elément de soin** : Visualisation des démarches et des services que ces dernières contiennent effectués concernant ce problème de santé.
 
-Document non finalisé : document à imprimer
+  |icon_demarche| **Démarche** : sous-section de l'élément de soin contenant des services.
 
-Formulaire.
+    |icon_finalized_document| **Document finalisé** : document imprimé.
 
-Dossier intelligent : Visualisation d'un type d'information (extraite de l'ensemble du dossier en fonction de critères préétablis.
+    |icon_document| **Document non finalisé** : document à imprimer
+
+    |icon_form| **Formulaire**.
+
+**Dossier intelligent** : Visualisation d'un type d'information (extraite de l'ensemble du dossier en fonction de critères préétablis.
+
+.. caution::
+  La fonction de **dossier intelligent** ne semble plus être disponible pour le moment dans la version 4.0.0
+
+.. |icon_f_a| image:: images/icon_fiche_administrative.png
+
+.. |icon_r_p| image:: images/icon_resume_patient.png
+
+.. |icon_files| image:: images/icon_files.png
+
+.. |icon_planning| image:: images/icon_planning.png
+
+.. |icon_vaccines| image:: images/icon_vaccines.png
+
+.. |icon_medicaments| image:: images/icon_medicaments.png
+
+.. |icon_element_de_soin| image:: images/icon_element_de_soin.png
+
+.. |icon_demarche| image:: images/icon_demarche.png
+
+.. |icon_finalized_document| image:: images/icon_finalized_document.png
+
+.. |icon_document| image:: images/icon_document.png
+
+.. |icon_form| image:: images/icon_form.png
 
 Utilisation de l'inspecteur
 ---------------------------
