@@ -194,3 +194,18 @@ Dans cet exemple, un service a été sélectionné dans un élément de so
 
 Les préferences iCure
 ---------------------
+
+Dans vos Préférences iCure, plusieurs onglets vous donnent accès aux règlages du logiciel.
+
+.. image:: images/screenshot_preferences.png
+
+1. Les **préférences « Général »** sont celles que vous pouvez observer ci-dessus. Elles concernent l’utilisation du logiciel dans son ensemble.
+2. Les **préférences « Backup »** vous permettent de configurer les procédures de sauvegarde de vos données, de régler la planification de ces procédures ainsi que de déterminer quels seront les dossiers destinataires des sauvegardes.
+3. Les **préférences « Résultats de laboratoire »** vous permettent de déterminer l’emplacement de départ dans lequel ces résultats se trouveront et de décider du sort du document après l’importation.
+4. Les **préférences « Prescriptions »** concernent la réalisation des ordonnances ainsi que leur impression.
+5. Les **préférences « Dossier médical »** permettent de décider quels types éléments seront visualisés dans chaque dossier patient.
+6. Les **préférences "matrix printer"** permettent de configurer l'impression matricielle des bons de mutuelle pour imprimante à aiguilles
+
+.. admonition:: Remarque
+
+  les différents onglets seront expliqués plus en détails dans les points correspondant à leurs fonctions.
