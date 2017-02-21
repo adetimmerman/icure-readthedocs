@@ -133,8 +133,7 @@ La colonne de gauche dans un dossier patient
 
 **Boîte aux lettres (Inbox)** : Visualisation les résultats de laboratoire.
 
-.. caution::
-
+.. error::
   La fonction de **Boîte aux lettres (Inbox)** ne semble plus être disponible pour le moment dans la version 4.0.0
 
 |icon_element_de_soin| **Elément de soin** : Visualisation des démarches et des services que ces dernières contiennent effectués concernant ce problème de santé.
@@ -149,7 +148,7 @@ La colonne de gauche dans un dossier patient
 
 **Dossier intelligent** : Visualisation d'un type d'information (extraite de l'ensemble du dossier en fonction de critères préétablis.
 
-.. caution::
+.. error::
   La fonction de **dossier intelligent** ne semble plus être disponible pour le moment dans la version 4.0.0
 
 .. |icon_f_a| image:: images/icon_fiche_administrative.png
@@ -176,6 +175,22 @@ La colonne de gauche dans un dossier patient
 
 Utilisation de l'inspecteur
 ---------------------------
+
+Il existe deux inspecteurs dans iCure. Leur contenu varie en fonction de l’élément sélectionné. Le premier inspecteur est voué à la sélection, celui- ci varie (élément de soin, formulaire...), le deuxième concerne le service (toute ajout ou modification d'information par un utilisateur iCure au sein du dossier patient).
+
+Dans l’exemple ci-dessous, les deux inspecteurs sont actifs.
+
+.. image:: images/screenshot_inspectors.png
+
+|icon_inspector| Cliquez sur cet icône et les fenêtres Inspecteur «Sélection» et «Attributs» s’ouvriront. Leurs contenus varient en fonction de l’élément sur lequel vous cliquez, module dans lequel vous vous trouvez.
+
+.. |icon_inspector| image:: images/icon_inspector.png
+
+Dans cet exemple, un service a été sélectionné dans un élément de soin.
+
+.. error::
+  | exemple impossible à reproduire dans la version 4.0.0
+  | L'inspecteur de service ne réagit à aucune selection
 
 Les préferences iCure
 ---------------------
