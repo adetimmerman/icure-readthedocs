@@ -199,12 +199,12 @@ Dans vos Préférences iCure, plusieurs onglets vous donnent accès aux règ
 
 .. image:: images/screenshot_preferences.png
 
-1. Les **préférences « Général »** sont celles que vous pouvez observer ci-dessus. Elles concernent l’utilisation du logiciel dans son ensemble.
-2. Les **préférences « Backup »** vous permettent de configurer les procédures de sauvegarde de vos données, de régler la planification de ces procédures ainsi que de déterminer quels seront les dossiers destinataires des sauvegardes.
-3. Les **préférences « Résultats de laboratoire »** vous permettent de déterminer l’emplacement de départ dans lequel ces résultats se trouveront et de décider du sort du document après l’importation.
-4. Les **préférences « Prescriptions »** concernent la réalisation des ordonnances ainsi que leur impression.
-5. Les **préférences « Dossier médical »** permettent de décider quels types éléments seront visualisés dans chaque dossier patient.
-6. Les **préférences "matrix printer"** permettent de configurer l'impression matricielle des bons de mutuelle pour imprimante à aiguilles
+1. Les **préférences "General"** sont celles que vous pouvez observer ci-dessus. Elles concernent l’utilisation du logiciel dans son ensemble.
+2. Les **préférences "Lab results"** vous permettent de déterminer l’emplacement de départ dans lequel ces résultats se trouveront et de décider du sort du document après l’importation.
+3. Les **préférences "Communication"** permettent de configurer l'accès au différents systèmes externe à iCure.
+4. Les **préférences "Prescriptions"** concernent la réalisation des ordonnances ainsi que leur impression.
+5. Les **préférences "Dossier médical"** permettent de décider quels types éléments seront visualisés dans chaque dossier patient.
+6. Les **préférences "Matrix printer",** sous "Tarification", permettent de configurer l'impression matricielle des bons de mutuelle pour imprimante à aiguilles
 
 .. admonition:: Remarque
 
