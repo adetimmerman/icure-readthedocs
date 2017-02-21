@@ -112,12 +112,38 @@ La fenêtre iCure
 4. L’**inspecteur** permet de faire apparaître la fenêtre Sélection qui propose certaines actions de configuration.
 5. Cette **colonne de gauche** permet d’agir dans le module choisi ou encore sur la hiérarchie d’un dossier patient sélectionné. De cette colonne, il est possible d’accéder aux différents éléments de la structure interne du module.
 6. La **fenêtre principale** permet de remplir les champs et donc de compléter iCure.
-7. Les **boutons d’actions** permettent d’ajouter ou supprimer des éléments et proposent une série de fonctions.
+7. Les **boutons d’actions** |bouton_action| permettent d’ajouter ou supprimer des éléments et proposent une série de fonctions.
 
-.. Trouver comment insérer une image des boutons d'actions dans le numéro 7
+.. |bouton_action| image:: images/bouton_action.png
 
 La colonne de gauche dans un dossier patient
 --------------------------------------------
+
+**Fiche administrative** : Accès à la fiche administrative du patient.
+
+**Résumé Patient** : Visualisation du contenu du dossier. Médecins : Visualisation des médecins le traitant.
+
+**Fichiers** : Visualisation des différents fichiers contenus dans le dossier.
+
+**Planning** : Visualisation des rappels.
+
+**Carnet de vaccinations** : Visualisation des vaccins.
+
+Médicaments : Visualisation des prescriptions réalisées. Transactions : Visualisation des différents services effectués.
+
+Boîte aux lettres (Inbox) : Visualisation les résultats de laboratoire.
+
+Elément de soin : Visualisation des démarches et des services que ces dernières contiennent effectués concernant ce problème de santé.
+
+Démarche : sous-section de l'élément de soin contenant des services.
+
+Document finalisé : document imprimé.
+
+Document non finalisé : document à imprimer
+
+Formulaire.
+
+Dossier intelligent : Visualisation d'un type d'information (extraite de l'ensemble du dossier en fonction de critères préétablis.
 
 Utilisation de l'inspecteur
 ---------------------------
