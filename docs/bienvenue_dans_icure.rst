@@ -104,7 +104,7 @@ Ouvrez plusieurs fenêtres à la fois (raccourci «⌘-N»). Cette possibilite
 La fenêtre iCure
 ----------------
 
-.. image:: images/main_window.png
+.. image:: images/screenshot_main_window.png
 
 1. La **barre de sélection des modules** sert à passer d’un module à l’autre.
 2. La **barre d’outils** permet d’effectuer une série d’actions propres à chaque module.
