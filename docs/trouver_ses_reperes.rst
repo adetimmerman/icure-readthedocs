@@ -128,8 +128,15 @@ Module "Messages"
 - **Envoyer les messages Efact sélectionnés** permet d'envoyer des factures qui seraient en attente dans la boite d'envoi
 - **Purger les vieux messages**
 
-.. commentaire :
-  Module "Rapport" - N'existe plus ?
+Modules "Administration"
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. error:: Données insuffisantes pour compléter cette documentation
+
+Le module d'administration reprend plusieurs page d'informations concernant les Utilisateurs, les Assurances, les réplications, les codes, les mutuelles, les codes de tarifications...
+
+.. liste de module présent dans la version 3.7.2 mais pas trouver dans la version 4.0.0
+  Module "Rapport"
   Module "Médicaments"
   Module "Utilisateurs"
   Module "Formulaire"
