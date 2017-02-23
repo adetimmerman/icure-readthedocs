@@ -78,6 +78,21 @@ Les éléments particuliers à chaque module sont :
 Module "Dossier Patients"
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
+.. image:: images/screenshot_toolbar_module_patient.png
+
+- **Nouveau patient** permet d'ajouter un nouveau patient à votre logiciel.
+- **Effacer patient** permet de supprimer un patient.
+- **Nouveau formulaire** permet d'ouvrir un nouveau formulaire. Vous pouvez en choisir le modèle en fonction du besoin du moment.
+- **Nouvelle visite** permet d'ouvrir un formulaire de consultation d'un clic.
+- **iCal** permet d'enregistrer un rendez-vous sur iCal directement à partir du dossier d'un patient.
+- **Planning** permet d'inscrire des rappels dans la fenêtre de plannings.
+- **Introduire les codes** INAMI de prestation
+- **Prescrire** permet de confirmer la création d'une prescription ou de renouveler facilement une ancienne.
+- **EID** permet d'ouvrir et de mettre à jour un patient à partir de sa carte d'identité
+- **Imprimer.Etiq** permet d'imprimer une fiche d'identification du patient au format étiquette.
+- **Accès/notif**
+- **Date saisie** permet de définir l'heure de la consultation
+
 Effectuer une recherche
 =======================
 
