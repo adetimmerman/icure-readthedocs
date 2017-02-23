@@ -93,6 +93,18 @@ Module "Dossier Patients"
 - **Accès/notif**
 - **Date saisie** permet de définir l'heure de la consultation
 
+.. \* ces fonctions n’apparaissent dans la barre d’outil que lorsque vous êtes dans un nouveau rapport.
+
+Module "Dossier Patient" > Création de rapport
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: images/screenshot_toolbar_module_rapport.png
+
+- **Nouveau rapport** permet d'ouvrir un nouveau rapport. Vous pouvez choisir d'ouvrir le type de modèle de lettres ou autres certificats que vous voulez.
+- **Isérer le modèle** permet d'utiliser un modèle de rapport enregistré.
+- **Sauver le modèle** permet d'enregistrer un rapport comme modèle afin de pouvoir le réutiliser.
+- **Transmettre** permet de sauvegarder le rapport sous forme d'un fichier en dehors du programme et éventuellement de l'échanger avec d'autres médecins.
+
 Effectuer une recherche
 =======================
 
