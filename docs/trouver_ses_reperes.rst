@@ -105,6 +105,26 @@ Module "Dossier Patient" > Création de rapport
 - **Sauver le modèle** permet d'enregistrer un rapport comme modèle afin de pouvoir le réutiliser.
 - **Transmettre** permet de sauvegarder le rapport sous forme d'un fichier en dehors du programme et éventuellement de l'échanger avec d'autres médecins.
 
+Module "Prestataires de soins"
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: images/screenshot_toolbar_module_doctor.png
+
+- **Nouveau prestataire de soins** permet d'ajouter un nouveau médecin. Une fiche administrative vierge s'ouvre vous permettant de lier le nouveau docteur à un ou plusieurs patients ainsi qu'à une ou plusieurs institutions hospitalières.
+- **Supprimer prestataire de soins** permet de supprimer un médecin.
+
+.. commentaire :
+  Module "Rapport" - N'existe plus
+  Module "Messages"
+  Module "Médicaments"
+  Module "Utilisateurs"
+  Module "Formulaire"
+  Module "Hopitaux"
+  Module "Assurance"
+  Module "Modèles"
+  Module "Filtres"
+
+
 Effectuer une recherche
 =======================
 
