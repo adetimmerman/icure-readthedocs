@@ -113,9 +113,23 @@ Module "Prestataires de soins"
 - **Nouveau prestataire de soins** permet d'ajouter un nouveau médecin. Une fiche administrative vierge s'ouvre vous permettant de lier le nouveau docteur à un ou plusieurs patients ainsi qu'à une ou plusieurs institutions hospitalières.
 - **Supprimer prestataire de soins** permet de supprimer un médecin.
 
+Module "Messages"
+^^^^^^^^^^^^^^^^^
+
+.. image:: images/screenshot_toolbar_module_messages.png
+
+- **Marquer comme lu** permet de sélectionner plusieurs messages et de les marquer comme ayant été ouverts(lu).
+- **Marquer non-lu** permet de donner un mail consulté l'apparence de ne pas avoir été ouvert.
+- **Ouvrir le patient** permet d'ouvrir le parient dont le mail parle.
+- **Nouveau message** permet de rédiger un nouveau message.
+- **Répondre** au message sélectionné.
+- **Actualiser** pour recharger le contenu du dossier ouvert.
+- **Nouvelle demande d'agrément**
+- **Envoyer les messages Efact sélectionnés** permet d'envoyer des factures qui seraient en attente dans la boite d'envoi
+- **Purger les vieux messages**
+
 .. commentaire :
-  Module "Rapport" - N'existe plus
-  Module "Messages"
+  Module "Rapport" - N'existe plus ?
   Module "Médicaments"
   Module "Utilisateurs"
   Module "Formulaire"
