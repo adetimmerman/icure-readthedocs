@@ -59,10 +59,18 @@ Dans la partie supérieure de la fenêtre principale se trouve la barre d'outi
 
 .. image:: images/screenshot_toolbar_patient.png
 
-Cette barre d’outils évolue, comme vous allez le voir ci-dessous, en fonction du module dans lequel vous vous trouvez. Certains éléments sont communs. Les autres varient pour vous proposer les fonctionnalités adéquates à l’usage du module.
+Cette barre d’outils évolue, comme vous allez le voir ci-dessous, en fonction du module dans lequel vous vous trouvez. Certains éléments sont communs.
+Les autres varient pour vous proposer les fonctionnalités adéquates à l’usage du module.
 
 Les éléments communs à tous les modules sont :
 ----------------------------------------------
+
+.. image:: images/screenshot_common_module.png
+
+- **Imprimer**
+- Le **champ de recherche** permet de faire une recherche sur l'ensemble des éléments ou selon l'élément sélectionné.
+  La recherche peut également se réaliser en fonction de filtres accessibles par la petite flèche dans le champs de recherche.
+- **L'inspecteur** permet d'avoir accès à la fenêtre "Objects" permettant des actions différentes selon l'élément sélectionné.
 
 Les éléments particuliers à chaque module sont :
 ------------------------------------------------
