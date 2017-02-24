@@ -238,7 +238,7 @@ Ce point est destiné à l’explication du processus de création d’un nou
   Pour créer un nouveau patient :
 
   1. Cliquez sur l'icône nouveau patient |bouton_new_patient| dans la barre d'outils du module "Dossiers patients"|bouton_list_patient|.
-  2. Encodez les imformations du patient.
+  2. Encodez les informations du patient.
   3. Cliquez sur les différents éléments pour prendre connaissance du dossier.
 
 .. |bouton_new_patient| image:: images/bouton_new_patient.png
