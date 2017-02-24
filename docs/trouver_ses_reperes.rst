@@ -236,14 +236,51 @@ Ce point est destiné à l’explication du processus de création d’un nou
 
 .. note::
   Pour créer un nouveau patient :
-
-  1. Cliquez sur l'icône nouveau patient |bouton_new_patient| dans la barre d'outils du module "Dossiers patients"|bouton_list_patient|.
-  2. Encodez les informations du patient.
-  3. Cliquez sur les différents éléments pour prendre connaissance du dossier.
+    1. Cliquez sur l'icône nouveau patient |bouton_new_patient| dans la barre d'outils du module "Dossiers patients"|bouton_list_patient|.
+    2. Encodez les informations du patient.
+    3. Cliquez sur les différents éléments pour prendre connaissance du dossier.
 
 .. |bouton_new_patient| image:: images/bouton_new_patient.png
 
 .. |bouton_list_patient| image:: images/bouton_list_patient.png
+
+Lorsque vous cliquez sur l'icône |bouton_new_patient| dans la barre d'outil du module "Dossier patients"|bouton_list_patient|, iCure ouvre une nouvelle fiche patient.
+
+Un message indique le succès de l'opération.
+
+.. image:: images/screenshot_patient_popup.png
+
+Vous pouvez insérer les informations administratives dans la fiche nouveau patient.
+
+Pour ce faire, cliquez dans les différents champs et encodez les données.
+
+.. image:: images/screenshot_new_patient.png
+
+.. tip::    Les informations que vous encodez sont automatiquement enregistrées. Il n’est pas nécessaire de sauvegarder quoi que ce soit.
+
+Certains champs permettent l’auto-complétion et ce, pour accélérer votre travail d’encodage.
+Si, par exemple, vous désirez encoder une langue ne se trouvant pas dans la sélection proposée, iCure la retient et vous la propose automatiquement lors des prochains encodages.
+
+.. error::
+  24/02/2017
+    - Le champs de langue ne peux plus être édité une fois le patient fermé
+    - Les propositions automatique ne fonctionnent plus
+
+
+Lorsque vous encodez un code postal (belge), une liste de villes qui y sont liées vous est proposée. Sélectionnez celle qui vous intéresse.
+
+.. image:: images/screenshot_postal.png
+
+.. note::
+  La section "personne de contact" permet d’encoder les informations relatives à une personne responsable du patient comme dans le cas d’un mineur.
+
+.. image:: images/screenshot_patient_contact.png
+
+Vous pouvez choisir de masquer certains éléments de la fiche administrative en cliquant sur les flèches à gauche des parties rétractables de la fiche administrative.
+
+.. image:: images/screenshot_patient_unfold.png
+
+Inscrivez, par exemple, dans le champ notes, certaines remarques sur le patient puis refermez ce champ afin d'en masquer le contenu.
 
 Structure du dossier patient
 ============================
