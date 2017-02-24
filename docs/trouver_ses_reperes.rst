@@ -136,6 +136,7 @@ Modules "Administration"
 Le module d'administration reprend plusieurs page d'informations concernant les Utilisateurs, les Assurances, les réplications, les codes, les mutuelles, les codes de tarifications...
 
 .. liste de module présent dans la version 3.7.2 mais pas trouver dans la version 4.0.0
+  -> sont probablement repris par le module d'administration
   Module "Rapport"
   Module "Médicaments"
   Module "Utilisateurs"
@@ -145,9 +146,88 @@ Le module d'administration reprend plusieurs page d'informations concernant les 
   Module "Modèles"
   Module "Filtres"
 
-
 Effectuer une recherche
 =======================
+
+Toute recherche au sein d’iCure se base sur le même principe. Un champ de recherche s’applique à chaque élément sélectionné.
+
+.. tip::
+  Faire une recherche
+
+  - Utilisez le champ de recherche.
+  - La flèche à côté de la loupe dans le champ de recherche permet d’accéder aux différentes options.
+  - La recherche est effectuée parmi les patients si aucun patient n’est sélectionné.
+  - La recherche se fait dans l’élément sélectionné d’un dossier si un patient est sélectionné.
+
+.. image:: images/field_search.png
+
+Le champ de recherche est accessible à tout moment dans iCure.
+Les données sur lesquelles la recherche s'effectue dépendent du contexte.
+Ainsi, la recherche se fera toujours au sein du module sélectionné dans la barre d'onglet.
+
+**Par exemple,** prenez le module « Dossiers patients ».
+
+Tout ce qui suit concerne ce module mais le processus de recherche
+est semblable dans les autres modules.
+
+**Lorsqu'un patient est sélectionné,** son nom apparaît dans la colonne de gauche.
+Le titre de la fenêtre change également pour prendre le nom du patient.
+Une croix à côté de l'icône du module vous permet, à tout moment, de refermer le dossier de ce patient.
+Pour accéder à la liste de vos patients, cliquez sur cette croix.
+
+**Si aucun patient n'est sélectionné,** la colonne de gauche reste vide et la recherche s'effectue sur l'ensemble des dossiers patients.
+
+Lorsque rien n’est encodé dans le champ de recherche, votre iCure affiche la liste des patients par ordre chronologique inversé.
+Les derniers dossiers patient consultés se trouvent en haut de la liste.
+
+Le contenu de cette liste est déterminé par la configuration de votre logiciel (voir l’onglet « Général » des Préférences iCure).
+
+Si vous voulez obtenir la liste entière de vos patients, tapez le signe « % » dans le champ de recherche.
+
+.. image:: images/field_search_percent.png
+
+La liste complète apparaît.
+
+.. image:: images/screenshot_search_percent.png
+
+.. tip::
+  Le fait d’entrer le signe « % » dans le champ de recherche permet, de manière générale, dans iCure, d’obtenir la liste de données attenantes aux modules dans lequel vous vous trouvez.
+
+Tapez quelques lettres dans le champ suivies du signe «%», une liste s’affichent avec tous les noms de patients, médecins, hôpitaux... commençant par les lettres encodées.
+
+.. image:: images/screenshot_search_demo_percent.png
+
+.. image:: images/screenshot_search_demo_result.png
+
+Les colonnes de la zone de recherche affichent le nom, le prénom, la date de naissance, adresse, téléphone, le numéro NISS du patient, "Contenu" pour une recherche sur le contenu, "Tout" pour effectuer une recherche sur l'ensemble des critères.
+
+Pour effectuer une recherche, choisissez le type de données voulu. Encodez les premières lettres du mot recherche, votre iCure fait le reste.
+
+La flèche, à côté du champ de recherche , vous permet (dans le module patient) d’accéder aux filtres et de les appliquer sur l’ensemble des patients.
+
+.. image:: images/screenshot_search_filter.png
+
+**Si aucun patient n’est sélectionné,** la recherche porte sur l’ensem- ble des patients. Encodez les premières lettres, des colonnes s’affichent dans la zone de droite de la fenêtre.
+
+Vous pouvez cliquer sur n’importe quel élément (Nom, ID, NISS, Date nais.)
+
+.. image:: images/screenshot_search_criteres.png
+
+Les données correspondant à votre recherche s’affichent dans ces colonnes.
+
+**Si un patient est sélectionné,** la recherche dépend de l'élément sélectionné dans la hiérarchie à gauche de l'écran.
+
+**Si la fiche administrative ou le dossier ”Transactions“ sont sélectionnés,** c'est sur l'ensemble des données médicales du patient que se fait la recherche.
+
+.. image:: images/screenshot_search_transactions.png
+
+Les critères de recherche sont : Intitulé, Valeur, Classes, Codes, Propriétaire.
+
+.. image:: images/screenshot_search_transactions_criteres.png
+
+Comme lorsqu’aucun patient n’est sélectionné, les données correspondant à votre recherche s’affichent dans ces colonnes.
+
+**Si ”Médecins“, ”Fichiers“, ”Vaccins“ ou ”Planning“ sont sélectionnés,** la recherche porte sur les données correspondantes (médecins, fichiers, vaccins ou planning). De la même manière, si un dossier in- telligent, une démarche ou un élément de soin font l'objet de la sélection, la recherche est limitée aux éléments contenus dans ce dossier.
 
 Créer un nouveau patient
 ========================
