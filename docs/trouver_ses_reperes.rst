@@ -232,6 +232,19 @@ Comme lorsqu’aucun patient n’est sélectionné, les données correspondan
 Créer un nouveau patient
 ========================
 
+Ce point est destiné à l’explication du processus de création d’un nouveau dossier patient et à la complétion de sa fiche administrative.
+
+.. note::
+  Pour créer un nouveau patient :
+
+  1. Cliquez sur l'icône nouveau patient |bouton_new_patient| dans la barre d'outils du module "Dossiers patients"|bouton_list_patient|.
+  2. Encodez les imformations du patient.
+  3. Cliquez sur les différents éléments pour prendre connaissance du dossier.
+
+.. |bouton_new_patient| image:: images/bouton_new_patient.png
+
+.. |bouton_list_patient| image:: images/bouton_list_patient.png
+
 Structure du dossier patient
 ============================
 
