@@ -36,11 +36,16 @@ Derrière ce logiciel, se trouve toute une équipe prête à vous répondre
 iCure, un programme labellisé
 =============================
 
-iCure respecte la structuration du dossier médical telle que proposée par le Ministère de la santé1. C’est le programme MacOS X qui répond parfaitement à l'ensemble des critères de labellisation. C'est pourquoi les médecins généralistes utilisateurs d'iCure peu- vent bénéficier d’une prime de 743 euros par an.2
+iCure respecte la structuration du dossier médical telle que proposée par le Ministère de la santé.
+C’est le programme MacOS X qui répond parfaitement à l'ensemble des critères de labellisation.
+C'est pourquoi les médecins généralistes utilisateurs d'iCure peuvent bénéficier d’une prime de 743 euros par an.
 
-La labellisation d’iCure signifie que ce programme est doté d’un format de données ouvert garantissant une inter-opérabilité entre logiciels labellisés. Bien que les données peuvent s’échanger facilement, iCure reste garant du secret médical. Les données intro- duites dans la base de données iCure restent personnelles et confi- dentielles. iCure vous apporte l’assurance de la sécurité des données.
+La labellisation d’iCure signifie que ce programme est doté d’un format de données ouvert garantissant une inter-opérabilité entre logiciels labellisés.
+Bien que les données peuvent s’échanger facilement, iCure reste garant du secret médical.
+Les données introduites dans la base de données iCure restent personnelles et confidentielles.
+iCure vous apporte l’assurance de la sécurité des données.
 
-Dans le but de vous facilitez la compréhension, voici la dé nition de quelques notions communes aux programmes labellisés pour médecins :
+Dans le but de vous facilitez la compréhension, voici la définition de quelques notions communes aux programmes labellisés pour médecins :
 
 **Élément de soin**
   [problème de soin, problème de santé] : Entité pathologique ou non pouvant justifier aux yeux du patient une prise de contact avec un prestataire de soin et devenant, de ce fait, un élément structurant du dossier .
