@@ -31,6 +31,8 @@ Derrière ce logiciel, se trouve toute une équipe prête à vous répondre
 
 .. _info@icure.eu: mailto:info@icure.eu
 
+.. error:: Adresse incorrecte !
+
 iCure, un programme labellisé
 =============================
 
