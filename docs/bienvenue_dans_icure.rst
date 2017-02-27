@@ -93,7 +93,9 @@ Voici comment procéder à l’installation de iCure sur votre Macintosh.
 Accéder à iCure
 ===============
 
-A chaque fois que vous démarrez le programme, vos login et mot de passe vous sont demandés. Le but est de garantir la confidential- ité des dossiers patients. De cette manière, ils ne seront consulta- bles que par les personnes possédant un nom d’utilisateur et un mot de passe.
+A chaque fois que vous démarrez le programme, vos login et mot de passe vous sont demandés.
+Le but est de garantir la confidentialité des dossiers patients.
+De cette manière, ils ne seront consultables que par les personnes possédant un nom d’utilisateur et un mot de passe.
 
 .. admonition:: Pour accéder à iCure
 
@@ -106,7 +108,8 @@ A chaque fois que vous démarrez le programme, vos login et mot de passe vous s
 iCure en un coup d'oeil
 =======================
 
-Ouvrez plusieurs fenêtres à la fois (raccourci «⌘-N»). Cette possibilité d’ouverture simultanée de fenêtres iCure permet, par exemple, de travailler sur un dossier patient tout en visualisant la fiche administrative de son médecin, d’ouvrir plusieurs dossiers en même temps...
+Ouvrez plusieurs fenêtres à la fois (raccourci «⌘-N»).
+Cette possibilité d’ouverture simultanée de fenêtres iCure permet, par exemple, de travailler sur un dossier patient tout en visualisant la fiche administrative de son médecin, d’ouvrir plusieurs dossiers en même temps...
 
 La fenêtre iCure
 ----------------
@@ -183,13 +186,15 @@ La colonne de gauche dans un dossier patient
 Utilisation de l'inspecteur
 ---------------------------
 
-Il existe deux inspecteurs dans iCure. Leur contenu varie en fonction de l’élément sélectionné. Le premier inspecteur est voué à la sélection, celui- ci varie (élément de soin, formulaire...), le deuxième concerne le service (toute ajout ou modification d'information par un utilisateur iCure au sein du dossier patient).
+Il existe deux inspecteurs dans iCure. Leur contenu varie en fonction de l’élément sélectionné.
+Le premier inspecteur est voué à la sélection, celui- ci varie (élément de soin, formulaire...), le deuxième concerne le service (toute ajout ou modification d'information par un utilisateur iCure au sein du dossier patient).
 
 Dans l’exemple ci-dessous, les deux inspecteurs sont actifs.
 
 .. image:: images/screenshot_inspectors.png
 
-|icon_inspector| Cliquez sur cet icône et les fenêtres Inspecteur «Sélection» et «Attributs» s’ouvriront. Leurs contenus varient en fonction de l’élément sur lequel vous cliquez, module dans lequel vous vous trouvez.
+|icon_inspector| Cliquez sur cet icône et les fenêtres Inspecteur «Sélection» et «Attributs» s’ouvriront.
+Leurs contenus varient en fonction de l’élément sur lequel vous cliquez, module dans lequel vous vous trouvez.
 
 .. |icon_inspector| image:: images/icon_inspector.png
 
