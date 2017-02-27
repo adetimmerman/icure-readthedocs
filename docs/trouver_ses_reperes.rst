@@ -319,6 +319,50 @@ iCure offre la possibilité au médecin de classer ses données selon une str
 
 .. |bouton_action_menu| image:: images/bouton_action_menu.png
 
+Dans iCure, travaillez à partir du Dossier Patient. Vous pouvez y effectuer la plupart des actions.
+
+| Entrez l’information via des formulaires que vous avez la possibilité de concevoir entièrement dans le module "Formulaire".
+| Visualisez l’information dans vos dossiers patients iCure.
+| Créez des Dossiers Intelligents pour filtrer les données et n’en extraire que celles dont vous désirez obtenir l’accès rapide.
+
+Voici un schéma illustrant le cheminement de l’information dans iCure.
+
+.. error:: schéma manquant (voir doc iCure 3)
+
+Depuis la liste des patients, ouvrez un patient.
+Voici comment se présente la fenêtre.
+
+.. image:: images/screenshot_dossier_patient.png
+
+La zone de gauche affiche la structure hiérarchique du dossier médical. Cette structure reste la même pour tous vos patients.
+
+Vous y trouvez des éléments tels que la **fiche administrative** |icon_fiche_administrative|,
+le **résumé patient** |icon_resume_patient| qui rassemble le contenu du dossier médical pour un accès direct à vos données,la liste des **médecins** |icon_doctors| qui traitent aussi votre patient,
+les fichiers intégrés par « glisser-déposer » |icon_files|, les **planifications** |icon_planning|, les **vaccins** |icon_vaccines| et les **prescriptions** |icon_medicaments|).
+
+**L’élément «Transactions»** |icon_transactions| permet de détailler rapidement, de manière chronologique, les différentes consultations effectuées pour ce patient.
+
+**L’élément «Etat général/Vaccination/Médication»** |icon_health_element| permet de consulter tous les démarches et services promulgués à ce client par le passé concernant cet élément de soin.
+Les valises à croix rouges, éléments de soin, peuvent à tout moment être rajoutée
+
+Vous pouvez également configurer une série de **dossiers intelligents** qui permettent d’afficher de manière synthétique, pour tous les patients, des données issues de l'ensemble du dossier médical. Les autres éléments (transactions et éléments de soin) sont propres au patient.
+
+.. |icon_fiche_administrative| image:: images/icon_fiche_administrative.png
+
+.. |icon_resume_patient| image:: images/icon_resume_patient.png
+
+.. |icon_doctors| image:: images/icon_doctors.png
+
+.. |icon_files| image:: images/icon_files.png
+
+.. |icon_planning| image:: images/icon_planning.png
+
+.. |icon_vaccines| image:: images/icon_vaccines.png
+
+.. |icon_medicaments| image:: images/icon_medicaments.png
+
+.. DOC PAGE 39
+
 Organiser l'information
 -----------------------
 
