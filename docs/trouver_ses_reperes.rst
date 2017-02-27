@@ -361,10 +361,24 @@ Vous pouvez également configurer une série de **dossiers intelligents** qui 
 
 .. |icon_medicaments| image:: images/icon_medicaments.png
 
-.. DOC PAGE 39
-
 Organiser l'information
 -----------------------
+
+iCure vous offre la possibilité d’organiser vos dossiers patients afin qu’ils soient structurés selon votre vision.
+Ce classement des données permet de rechercher plus rapidement des informations et d’associer ces dernières les unes avec les autres à travers ces classements.
+
+.. VERIFIER L'ENCADRE SUIVANT !
+
+.. admonition:: Pour organiser l'information.
+
+  1. Complétez ou modi ez l’information contenue dans la  che administrative.
+  2. Créez de nouveaux éléments de soin, démarches ou services avec le .
+  3. Editez un nouveau formulaire avec .
+  4. Supprimez l'élément sélectionné avec .
+  5. Utilisez le bouton d’actions .
+  6. Glissez-déposez les éléments pour changer la struc- ture hiérarchique du dossier.
+
+.. DOC PAGE 39
 
 Les éléments de soin
 ^^^^^^^^^^^^^^^^^^^^
