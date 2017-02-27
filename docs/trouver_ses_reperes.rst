@@ -285,6 +285,40 @@ Inscrivez, par exemple, dans le champ notes, certaines remarques sur le patient 
 Structure du dossier patient
 ============================
 
+iCure offre la possibilité au médecin de classer ses données selon une structure mise en avant par le Ministère de la santé, mais surtout selon vos préférences personnelles.
+
+.. admonition:: Points clés sur les éléments de structure des dossiers patients.
+
+  • La visualisation des différents éléments du dossier médical se réalise dans la zone de gauche de la fenêtre.
+  • Des éléments fixes, communs à tous les dossiers médicaux, se retrouvent dans la structure.
+  • Vous pouvez décider de ceux qui seront visibles dans les Préférences iCure dans l’onglet dossier médical.
+  • D’autres éléments sont propres à chaque patient (cfr. Eléments de soin différents).
+  • Les « Transactions » |icon_transactions| donnent une chronologique des différentes consultations vue.
+  • Le dossier « Etat général/Vaccination/Médication» |icon_health_element| donne une vue de toutes les démarches contenue dans l'élément. Cette seconde visualisation est orientée problème de santé.
+  • Vous pouvez ajouter autant d’éléments de soin |icon_health_element| que vous le désirez dans un dossier patient.
+  • Et dans ces éléments de soin |icon_health_element|, autant de démarches/plans d'action |icon_demarche| que vous le voulez.
+  • Les formulaires |icon_form| et rapports |icon_document| pré enregistrés s'insérent dans les démarches/plans d'action |icon_demarche| en cliquant respectivement sur Nouveau Formulaire |bouton_nouv_form| et Nouveau Rapport |bouton_nouv_rapport|.
+  • Pour créer un rapport |icon_document|, sélectionnez la démarche |icon_demarche| dans laquelle vous voulez l'insérer puis allez dans le menu Action |bouton_action_menu| où vous devez choisir "Nouveau rapport pour la démarche".
+  • Les dossiers intelligents filtrent l’information.
+
+.. error:: Les dossiers intelligents ne semblent pas être disponible dans la version 4.0.0
+
+.. |icon_transactions| image:: images/icon_transactions.png
+
+.. |icon_health_element| image:: images/icon_element_de_soin.png
+
+.. |icon_demarche| image:: images/icon_demarche.png
+
+.. |icon_form| image:: images/icon_form.png
+
+.. |icon_document| image:: images/icon_document.png
+
+.. |bouton_nouv_form| image:: images/bouton_nouv_form.png
+
+.. |bouton_nouv_rapport| image:: images/bouton_nouv_rapport.png
+
+.. |bouton_action_menu| image:: images/bouton_action_menu.png
+
 Organiser l'information
 -----------------------
 
