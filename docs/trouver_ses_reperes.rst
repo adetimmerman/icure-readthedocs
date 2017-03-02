@@ -384,13 +384,98 @@ Ce classement des données permet de rechercher plus rapidement des information
 
 .. |icon_-| image:: images/icon_-.png
 
-.. DOC PAGE 39
+Tout élément de soin (problème de santé) contient des démarches (ensembles de formulaires).
+Ces formulaires servent à introduire l’information. Ils contiennent, quant à eux, des services.
+
+.. image:: images/schema_element_de_soin.png
 
 Les éléments de soin
 ^^^^^^^^^^^^^^^^^^^^
 
+Un **élément de soin** (problème de santé) |icon_element_de_soin| est une entité, pathologique ou non, pouvant justifier,
+aux yeux du patient, une prise de contact avec un prestataire de soin et devenant, par ce fait,
+un élément structurant du dossier .
+
+.. |icon_element_de_soin| image:: images/icon_element_de_soin.png
+
+.. image:: images/schema_element_de_soin_petit.png
+  :align: center
+
+.. note::
+  En bas, à gauche de la fenêtre, une série de 5 boutons |bouton_action| permet d'agir sur la hiérarchie.
+
+.. |bouton_action| image:: images/bouton_action.png
+
+
+| **Pour ajouter au dossier d’un patient un élément de soin** |icon_element_de_soin|, utilisez le bouton |icon_+|.
+| Attention pour ce faire, veillez à ce qu’aucun élément ne soit sélectionné !
+
+**Pour renommer un élément de soin** |icon_element_de_soin|, cliquez sur l’Inspecteur |icon_inspector| pour pouvoir agir dans la fenêtre « Sélection ».
+
+.. |icon_inspector| image:: images/icon_inspector.png
+
+.. image:: images/screenshot_inspector_element_de_soin.png
+  :align: center
+
+Ecrivez le nom que vous désirez donner à votre moèle dans le champs "description".
+
+.. image:: images/screenshot_inspector_description.png
+  :align: center
+
+.. tip:: Tous les éléments que vous ajoutez dans la hiérarchie peuvent être renommés en cliquant dessus. |screenshot_rename_element_de_soin|
+
+.. |screenshot_rename_element_de_soin| image:: images/screenshot_rename_element_de_soin.png
+
+Vous pouvez **fermer un élément de soin** lorsque vous considérez que les soins concernant ce problème de santé sont terminés.
+
+.. image:: images/screenshot_inspector_status.png
+
+Un signe d’interdiction vous confirme la clôture de l’élément de soin.
+
+Fermer un élément de soin vous permet de retirer des dossiers de visualisation les informations qui ne sont plus d’actualité concernant la santé du patient concerné.
+Il est possible de masquer les éléments de soins clôturés afin qu’ils ne puissent plus être vu du dossier patient.
+Pour ce faire, décocher «Afficher les éléments de soin clôturés » dans les Préférences iCure « Dossier Médical ».
+
+.. error:: impossible de fermer l'élément de soin dans iCure 4.0.0
+
+Dans cet inspecteur, vous pouvez également **déterminer la gravité** du problème de santé du patient.
+
+.. image:: images/screenshot_inspector_gravity.png
+  :align: center
+
+Cet Inspecteur "Objets" présente une liste déroulante dans laquelle vous pouvez sélectionner "Codes"
+
+|screenshot_inspector_list| ➔ |screenshot_inspector_list_choice|
+
+.. |screenshot_inspector_list| image:: images/screenshot_inspector_list.png
+
+.. |screenshot_inspector_list_choice| image:: images/screenshot_inspector_list_choice.png
+
+Vous pouvez associer un code ICPC-2 ou ICD-10 à l'élément de soin sélectionné.
+
+.. image:: images/screenshot_inspector_codes.png
+  :align: center
+
+Pour plus de renseignements sur la procédure de codification ICPC-2 ou ICD-10, lisez le point concernant les codifications.
+
+| **Pour supprimer l'élément de soin** sélectionné, utilisez le bouton |icon_-|.
+| Le bouton d'action |bouton_action_menu| reprend les actions possibles concernant l'élément surligné.
+| Les éléments de soin peuvent être déplacés par "glisser-déposer" entre les éléments de soins.
+
 Les démarches
 ^^^^^^^^^^^^^
+
+Une **Démarche** |icon_demarche| est un ensemble de services sous la responsabilité d'un seul prestataire dans le cadre d'un seul élément de soin (problème de santé).
+On peut éventuellement lui associer une notion d'objectif.
+
+.. image:: images/schema_demarche.png
+
+| **Pour ajouter une démarche au dossier patient,** utilisez le bouton |icon_+|.
+| Attentio, pour ce faire, il faut qu'un élément de soin |icon_element_de_soin| soit sélectionné !
+
+**Pour renommer une démarche**
+
+.. DOC PAGE 43
 
 Les formulaires
 ^^^^^^^^^^^^^^^
