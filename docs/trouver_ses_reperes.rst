@@ -471,7 +471,7 @@ On peut éventuellement lui associer une notion d'objectif.
 .. image:: images/schema_demarche.png
 
 | **Pour ajouter une démarche au dossier patient,** utilisez le bouton |icon_+|.
-| Attentio, pour ce faire, il faut qu'un élément de soin |icon_element_de_soin| soit sélectionné !
+| Attention, pour ce faire, il faut qu'un élément de soin |icon_element_de_soin| soit sélectionné !
 
 **Pour renommer une démarche** |icon_demarche|, cliquez sur l'Inspecteur |icon_inspector| pour pouvoir agir dansl a fenêtre "Objects".
 
@@ -482,7 +482,31 @@ Vous pouvez également renommer les démarches en cliquant dessus dans la zone d
 Les formulaires
 ^^^^^^^^^^^^^^^
 
-.. DOC PAGE 44
+Un **Formulaire** est un écran de saisie adaptable destiné à contenir l'information également appelée "Service".
+
+.. image:: images/schema_formulaire.png
+  :align: center
+
+**Pour ajouter un formulaire de visite au sein de la démarche,** selectionnez une démarche.
+
+.. image:: images/screenshot_demarche.png
+  :align: center
+
+Utilisez le bouton |icon_+| de la barre d'action pour ajouter un nouveau formulaire de visite au sein de la démarche.
+
+Vous pouvez aussi utiliser le bouton "Nouveau Formulaire" |bouton_nouv_form| de la barre d'outil pour ajouter des formulaires.
+
+.. image:: images/screenshot_nouv_form.png
+
+Le bouton |icon_-| supprime l'élément sélectionné.
+
+Le bouton d'actions |bouton_action_menu| reprend les actions possibles concernant l'élément surligné.
+
+.. image:: images/screenshot_menu_action.png
+
+Les formulaires peuvent être déplacés par "glisser-déposer".
+
+.. DOC PAGE 46
 
 Les services
 ^^^^^^^^^^^^
