@@ -503,6 +503,7 @@ Le bouton |icon_-| supprime l'élément sélectionné.
 Le bouton d'actions |bouton_action_menu| reprend les actions possibles concernant l'élément surligné.
 
 .. image:: images/screenshot_menu_action.png
+  :align: center
 
 Les formulaires peuvent être déplacés par "glisser-déposer".
 
