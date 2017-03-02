@@ -497,6 +497,7 @@ Utilisez le bouton |icon_+| de la barre d'action pour ajouter un nouveau formula
 Vous pouvez aussi utiliser le bouton "Nouveau Formulaire" |bouton_nouv_form| de la barre d'outil pour ajouter des formulaires.
 
 .. image:: images/screenshot_nouv_form.png
+  :align: center
 
 Le bouton |icon_-| supprime l'élément sélectionné.
 
