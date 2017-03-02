@@ -371,12 +371,18 @@ Ce classement des données permet de rechercher plus rapidement des information
 
 .. admonition:: Pour organiser l'information.
 
-  1. Complétez ou modi ez l’information contenue dans la  che administrative.
-  2. Créez de nouveaux éléments de soin, démarches ou services avec le .
-  3. Editez un nouveau formulaire avec .
-  4. Supprimez l'élément sélectionné avec .
-  5. Utilisez le bouton d’actions .
-  6. Glissez-déposez les éléments pour changer la struc- ture hiérarchique du dossier.
+  1. Complétez ou modifiez l’information contenue dans la fiche administrative.
+  2. Créez de nouveaux éléments de soin, démarches ou services avec le |icon_+|.
+  3. Editez un nouveau formulaire avec ???.
+  4. Supprimez l'élément sélectionné avec |icon_-|.
+  5. Utilisez le bouton d’actions |bouton_action_menu|.
+  6. Glissez-déposez les éléments pour changer la structure hiérarchique du dossier.
+
+.. error:: étape 3 incorrecte !
+
+.. |icon_+| image:: images/icon_+.png
+
+.. |icon_-| image:: images/icon_-.png
 
 .. DOC PAGE 39
 
