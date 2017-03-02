@@ -526,7 +526,7 @@ Ce qui permet de créer des modèles de formulaire adaptés que vous pourrez 
 
 **Dans l'inspecteur Service** |icon_inspector|, vous trouvez l’intitulé du service, sa date valeur et sa date de fin.
 Vous pouvez modifier ces deux dernières.
-Par défaut, la date valeur correspond au moment où vous avez rem- pli le formulaire dans lequel ce service se trouve.
+Par défaut, la date valeur correspond au moment où vous avez rempli le formulaire dans lequel ce service se trouve.
 
 Sélectionnez un élément de soin.
 
