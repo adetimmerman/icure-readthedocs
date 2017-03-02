@@ -473,12 +473,16 @@ On peut éventuellement lui associer une notion d'objectif.
 | **Pour ajouter une démarche au dossier patient,** utilisez le bouton |icon_+|.
 | Attentio, pour ce faire, il faut qu'un élément de soin |icon_element_de_soin| soit sélectionné !
 
-**Pour renommer une démarche**
+**Pour renommer une démarche** |icon_demarche|, cliquez sur l'Inspecteur |icon_inspector| pour pouvoir agir dansl a fenêtre "Objects".
 
-.. DOC PAGE 43
+Vous pouvez également renommer les démarches en cliquant dessus dans la zone de gauche de la fenêtre iCure.
+
+.. note:: Les démarches peuvent être déplacées par "glisser-déposer" entre les éléments de soins.
 
 Les formulaires
 ^^^^^^^^^^^^^^^
+
+.. DOC PAGE 44
 
 Les services
 ^^^^^^^^^^^^
