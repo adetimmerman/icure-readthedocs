@@ -508,10 +508,33 @@ Le bouton d'actions |bouton_action_menu| reprend les actions possibles concernan
 
 Les formulaires peuvent être déplacés par "glisser-déposer".
 
-.. DOC PAGE 46
-
 Les services
 ^^^^^^^^^^^^
+
+Un **Service** (procédure, action, prestation, information), équivaut à toute manipulation (ajout, retrait ou modification) d'information que réalise le prestataire (utilisateur iCure dans ce cas) au sein du dossier patient.
+
+.. image:: images/schema_service.png
+  :align: center
+
+**Pour ajouter un nouveau service au dossier patient,** utilisez le bouton |icon_+|.
+
+Attention pour ce faire, il faut qu'une démarche |icon_demarche| soit sélectionnée !
+
+Ce procédé d’insertion de nouveau service directement dans le dossier patient sera très peu utilisé,
+les formulaires étant façonnable à souhait dans le module « Formulaire ».
+Ce qui permet de créer des modèles de formulaire adaptés que vous pourrez réutiliser, voir le chapitre sur le sujet.
+
+**Dans l'inspecteur Service** |icon_inspector|, vous trouvez l’intitulé du service, sa date valeur et sa date de fin.
+Vous pouvez modifier ces deux dernières.
+Par défaut, la date valeur correspond au moment où vous avez rem- pli le formulaire dans lequel ce service se trouve.
+
+Sélectionnez un élément de soin.
+
+Les services contenus dans cet élément de soin s’affichent. Sélectionnez-en un.
+
+L’inspecteur «Attribut» vous permet de visualiser le nom de l’élément de soin (de le fermer, de visualiser les différentes dates et de déterminer une gravité) ou le nom de la démarche.
+
+.. DOC PAGE 48
 
 Enregistrer un élément de soin comme modèle
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
