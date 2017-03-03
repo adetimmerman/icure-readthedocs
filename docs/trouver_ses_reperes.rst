@@ -534,7 +534,35 @@ Les services contenus dans cet élément de soin s’affichent. Sélectionnez
 
 L’inspecteur «Attribut» vous permet de visualiser le nom de l’élément de soin (de le fermer, de visualiser les différentes dates et de déterminer une gravité) ou le nom de la démarche.
 
-.. DOC PAGE 48
+.. image:: images/screenshot_inspector_attributs_complet.png
+.. image:: images/screenshot_inspector_attributs_element.png
+
+L'inspecteur "Services" vous offre le choix entre plusieurs types d'inspecteurs dans une liste déroulante.
+
+.. image:: images/screenshot_inspector_services.png
+
+Chacun de ces types d'inspecteur "Services" propose différentes fonctionnalités comme vous allez le voir ci-dessous.
+
+Attributs :
+
+..error: Remplacé par Attributs dans l'inspecteur Objects
+
+Classes :
+
+.. image:: images/screenshot_inspector_services_classes.png
+
+Cet inspecteur Service "Classes" permet de visualiser les classes associées au service et d'en ajouter si nécessaire.
+Pour ce faire, cliquez sur le |icon_+|.
+
+Une fenêtre s'ouvre. Encodez le début du nom de la classe que vous désirez associer au service ou tapez "%" pour obtenir la liste complète des classes.
+
+.. image:: images/screenshot_inspector_services_classes_input.png
+
+Cliquez sur le |icon_-| pour en supprimer.
+
+Vous pouvez établir une classe par défaut. Cette classe sera associée au prochain service que vous créerez.
+
+.. DOC PAGE 50
 
 Enregistrer un élément de soin comme modèle
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
