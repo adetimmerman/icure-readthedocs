@@ -562,6 +562,14 @@ Cliquez sur le |icon_-| pour en supprimer.
 
 Vous pouvez établir une classe par défaut. Cette classe sera associée au prochain service que vous créerez.
 
+Codes :
+
+.. image:: images/screenshot_inspector_services_codes.png
+
+Visualisez les différents codes associés au service et ajoutez-en si besoin en cliquant sur |icon_+|.
+
+Cliquez sur le |icon_-| pour en supprimer.
+
 .. DOC PAGE 50
 
 Enregistrer un élément de soin comme modèle
