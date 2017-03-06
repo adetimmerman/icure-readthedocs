@@ -585,10 +585,18 @@ Démarches :
 
 Cet inspecteur Service "Démarches" permet de visualiser la démarche dans laquelle le service se trouve.
 
-.. DOC PAGE 50
+Fichiers :
+
+.. image:: images/screenshot_inspector_services_fichiers.png
+
+Cet inspecteur Service "Fichiers" permet de voir si un fichier est associé à un service, de sélectionner un fichier pour lui associer ou encore de visualiser le fichier.
+
+Cependant, cela se fait automatiquement. Lorsqu'on glisse un fichier dans une démarche, un service est créé avec le fichier associé.
 
 Enregistrer un élément de soin comme modèle
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. DOC PAGE 52
 
 Utiliser un modèle d'élément de soin modèle
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
