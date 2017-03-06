@@ -570,6 +570,15 @@ Visualisez les différents codes associés au service et ajoutez-en si besoin en
 
 Cliquez sur le |icon_-| pour en supprimer.
 
+Propriétés :
+
+.. image:: images/screenshot_inspector_services_proprietes.png
+
+Visualisez les différentes propriétés associées au service et ajoutez-en si besoin en cliquant sur |icon_+|.
+Il s'agit d'attributs que l'on peut associer à un services.
+
+Cliquez sur le |icon_-| pour en supprimer.
+
 .. DOC PAGE 50
 
 Enregistrer un élément de soin comme modèle
