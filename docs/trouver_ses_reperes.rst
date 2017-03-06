@@ -581,7 +581,7 @@ Cliquez sur le |icon_-| pour en supprimer.
 
 Démarches :
 
-.. image:: images/screenshot_inspector_services_demarche.png
+.. image:: images/screenshot_inspector_services_demarches.png
 
 Cet inspecteur Service "Démarches" permet de visualiser la démarche dans laquelle le service se trouve.
 
