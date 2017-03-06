@@ -579,6 +579,12 @@ Il s'agit d'attributs que l'on peut associer à un services.
 
 Cliquez sur le |icon_-| pour en supprimer.
 
+Démarches :
+
+.. image:: images/screenshot_inspector_services_demarche.png
+
+Cet inspecteur Service "Démarches" permet de visualiser la démarche dans laquelle le service se trouve.
+
 .. DOC PAGE 50
 
 Enregistrer un élément de soin comme modèle
