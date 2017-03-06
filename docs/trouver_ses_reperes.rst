@@ -596,6 +596,10 @@ Cependant, cela se fait automatiquement. Lorsqu'on glisse un fichier dans une d�
 Enregistrer un élément de soin comme modèle
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Lorsque dans un dossier, vous avez créé la structure d'un élement de soin pour une pathologie récurrente, vous pouvez enregistrer la structure de ce dossier comme modèle.
+
+Les démarches caractéristiques du traitement seront dès lors sauvegardées et applicables quand vous le voudrez.
+
 .. DOC PAGE 52
 
 Utiliser un modèle d'élément de soin modèle
