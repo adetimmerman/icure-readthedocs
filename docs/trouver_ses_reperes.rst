@@ -647,13 +647,36 @@ Un champ de recherche vous permet de trouver le modèle plus rapidement en y ent
 
 Cliquez sur valider, le modèle choisi se place parmi les autres éléments du dossier
 
-.. DOC PAGE 56
-
 Créer sa propre structure d'élément de soin par défaut
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+.. admonition:: Pour créer sa propre structure de soin par défaut.
+
+  1. Sélectionnez un éléments de soin.
+  2. Choisissez "Enreg. comme modèle d'élément de Soin" dans le menu d'actions.
+  3. Dans la fenêtre qui s'ouvre alors, cliquez sur "Créer" en bas à gauche.
+  4. Entrez un nom pour le modèle et cochez la case "Auto insert".
+  5. Validez avec le bouton "Create".
+
+Vous pouvez sélectionner une série d'éléments de soin, de démarches et de formulaires de consultation par défaut qui s'affichera dans chaque nouveau dossier patient.
+
+Pour ce faire, sélectionnez un élément de soin.
+Dans le bouton d'actions |bouton_menu_action|, choisissez "Enreg. comme modèle d'élément de Soin".
+
+.. image:: images/screenshot_enreg_modele_element_de_soin.png
+
+Créez un nouveau modèle en cliquant sur "Créer".
+
+.. image:: images/screenshot_enreg_nouveau_modele.png
+
+Entrez un nom et cochez la case "Auto insert" puis validez avec le bouton "Create"
+
+Les éléments de soin contenu dans ce modèle par défaut s'afficheront dans chaque nouveau dossier patient de votre iCure.
+
 Introduire des données dans un dossier patient
 ==============================================
+
+.. DOC PAGE 60
 
 Configurer iCure
 ================
