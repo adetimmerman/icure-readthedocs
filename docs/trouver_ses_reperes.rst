@@ -600,11 +600,35 @@ Lorsque dans un dossier, vous avez créé la structure d'un élement de soin pou
 
 Les démarches caractéristiques du traitement seront dès lors sauvegardées et applicables quand vous le voudrez.
 
-.. DOC PAGE 52
+.. admonition:: Pour enregistrer un élément de soin comme modèle
+
+  1. Sélectionnez un élément de soin.
+  2. Dans le bouton d'actions |bouton_action_menu|, sélectionnez "Enreg. comme modèle d'élément de Soin".
+  3. Choisissez le groupe de modèles dans lequel vous voulez enregistrer le nouveua modèle.
+  4. Validez.
+
+Pour ce faire, sélectionnez l'élément de soin que vous voulez enregistrer comme modèle.
+
+Prenez, par exemple, le dossier "Cancer" ci-dessous.
+
+.. image:: images/screenshot_example_modele_element_de_soin.png
+
+Utilisez le bouton d'actions |bouton_action_menu| et sélectionnez "Enreg. comme modèle d'élément de Soin"
+
+.. image:: images/menu_action.png
+
+Une fenêtre vous demande dans quel groupe de modèles vous voulez l'enregistrer.
+
+.. image:: images/screenshot_enreg_modele_element_de_soin.png
+
+Choisissez puis validez. Seuls les groupes que vous avez créés apparaissent dans la liste.
+Une fenêtre de recherche vous permet de trouver rapidement le modèle que vous voulez.
 
 Utiliser un modèle d'élément de soin modèle
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. Titre à corriger !
+
+.. DOC PAGE 56
 
 Créer sa propre structure d'élément de soin par défaut
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
