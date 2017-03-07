@@ -615,7 +615,7 @@ Prenez, par exemple, le dossier "Cancer" ci-dessous.
 
 Utilisez le bouton d'actions |bouton_action_menu| et sélectionnez "Enreg. comme modèle d'élément de Soin"
 
-.. image:: images/menu_action.png
+.. image:: images/menu_action_enreg_modele.png
 
 Une fenêtre vous demande dans quel groupe de modèles vous voulez l'enregistrer.
 
@@ -624,9 +624,28 @@ Une fenêtre vous demande dans quel groupe de modèles vous voulez l'enregistrer
 Choisissez puis validez. Seuls les groupes que vous avez créés apparaissent dans la liste.
 Une fenêtre de recherche vous permet de trouver rapidement le modèle que vous voulez.
 
-Utiliser un modèle d'élément de soin modèle
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-.. Titre à corriger !
+Utiliser un modèle d'élément de soin
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Dans le dossier d'un patient, vous pouvez utiliser une structure d'élément de soin (problème de santé) enregistrée.
+
+.. admonition:: Pour utiliser un modèle d'élément de soin
+
+  1. Sélectionnez "Charger un modèle de Structure de Soin" en utilisant le menu d'actions |bouton_action_menu|.
+  2. Choisissez le modèle de dossier élément de soin que vous voulez.
+  3. Utilisez le champ de recherche si vous avez une grande quantité de modèles.
+  4. Validez
+
+Si vous désirez utiliser un modèle d'élément de soin utilisé dans un autre dossier, utilisez le bouton d'actions |bouton_action_menu| et sélectionnez "Charger un modèle de Structure de Soin".
+
+.. image:: images/menu_action_charger_modele.png
+
+Une fenêtre s'ouvre, vous permettant de choisir le modèle de dossier élément de soin que vous voulez.
+Un champ de recherche vous permet de trouver le modèle plus rapidement en y entrant le nom du modèle voulu.
+
+.. image:: images/screenshot_charger_modele_element_de_soin.png
+
+Cliquez sur valider, le modèle choisi se place parmi les autres éléments du dossier
 
 .. DOC PAGE 56
 
