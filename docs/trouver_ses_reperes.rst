@@ -604,7 +604,7 @@ Les démarches caractéristiques du traitement seront dès lors sauvegardées et
 
   1. Sélectionnez un élément de soin.
   2. Dans le bouton d'actions |bouton_action_menu|, sélectionnez "Enreg. comme modèle d'élément de Soin".
-  3. Choisissez le groupe de modèles dans lequel vous voulez enregistrer le nouveua modèle.
+  3. Choisissez le groupe de modèles dans lequel vous voulez enregistrer le nouveau modèle.
   4. Validez.
 
 Pour ce faire, sélectionnez l'élément de soin que vous voulez enregistrer comme modèle.
