@@ -686,10 +686,28 @@ La fiche administrative s'affiche sur la droite de la fenêtre.
 
 Cliquez dans le champ à modifier ou à remplir.
 
-Introduire des données dans un dossier patient
-==============================================
+Résumé Patient |icon_finalized_document|.
+-----------------------------------------
+
+.. |icon_finalized_document| image:: images/icon_finalized_document.png
+
+Visualisez le contenu du dossier du patient en cliquant sur "Résumé Patient" dans la colonne de navigation (à gauche).
+Les données s'y trouvent rassemblées les unes au dessus des autres.
+
+.. note::
+  Ces données sont destinées à la lecture et non à l'encodage, vous ne pouvez dès lors pas modifier les éléments du dossier à cet endroit.
+
+Pour ajouter ou supprimer des éléments, allez dans un problème de santé |icon_element_de_soin|, modifiez ce que vous voulez directement dans les formulaires.
+
+.. image:: images/screenshot_resume_patient.png
+
+.. error::
+  Le résumé reste vide sous iCure 4 ?
 
 .. DOC PAGE 60
+
+Introduire des données dans un dossier patient
+==============================================
 
 Configurer iCure
 ================
