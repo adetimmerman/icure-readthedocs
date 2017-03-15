@@ -704,7 +704,34 @@ Pour ajouter ou supprimer des éléments, allez dans un problème de santé |ico
 .. error::
   Le résumé reste vide sous iCure 4 ?
 
-.. DOC PAGE 60
+Médecins |icon_doctors|.
+------------------------
+
+Lorsque vous encodez un nouveau patient, vous pouvez le lier à un ou plusieurs autre(s) médecin(s), spécialistes ou centres hospitaliers.
+
+.. admonition:: Pour ajouter un médecin
+
+  1. Cliquez sur l'icône Médecins |bouton_doctors|.
+  2. Cliquez sur |icon_+| pour ajouter un médecin préencodé.
+
+.. |bouton_doctors| image:: images/bouton_doctors.png
+
+Cliquez sur l'icône |bouton_doctors| pour savoir quel(s) autre(s) médecin(s) traite(nt) le patient sélectionné.
+
+Une liste s'affiche.
+
+.. image:: images/screenshot_list_doctors.png
+
+Si cette liste ne contient pas le médecin que vous souhaitez y voir, cliquez sur le |icon_+| en bas de la liste.
+Vous accédez à la liste exhaustive des médecins que vous avez déjà enregistrés dans iCure.
+
+Si vous désirez enregistrer un nouveau médecin, cliquez sur l'icône |bouton_new_doctor| pour accéder à une fiche d'enregistrement de médecin.
+
+Vous trouverez plus de détails sur l'encodage d'un nouveau médecin dans le point concernant ce sujet.
+
+.. |bouton_new_doctor| image:: images/bouton_new_doctor.png
+
+.. DOC PAGE 63
 
 Introduire des données dans un dossier patient
 ==============================================
