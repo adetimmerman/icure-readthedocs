@@ -771,7 +771,49 @@ Il est également possible d'importer un fichier par "Glisser-Déposer" sur l'é
 **Remarque** : Il n'est pas possible d'importer un fichier de laboratoire de cette façon.
 Pour ce faire, allez voir le point de manuel concernant ce sujet.
 
-.. DOC PAGE 63
+Planning. |icon_planning|
+-------------------------
+
+Lorsque vous êtes dans le dossier d'un de vos patients, iCure vous permet de visualiser en un clic les différentes notifications, rappels en tout genre, qui lui sont rattachés.
+
+.. tip:: Visualisez les rappels associés à un patient en cliquant sur le dossier Planning |icon_planning|.
+
+Dans la plupart des cas, vous événements seront générés via des formulaires, de manière automatique.
+
+Vous pouvez également ajouter des rendez-vous pour compléter le dossier.
+
+.. admonition::
+  Pour ajouter une notification :
+
+  1. Ajoutez une notification avec le |icon_+|.
+  2. Enregistrez le rappel comme événement du type ou personnel.
+
+Grâce à cette fonctionnalité, vous pouvez, à tout moment, intégrer un rappel à vos dossiers.
+
+Si vous souhaitez ajouter un événement, cliquez sur le |icon_+|.
+
+Un calendrier vous permet de choisir la date et l'heure de rappel que vous voulez.
+
+.. image:: images/screenshot_planning_add.png
+
+Vous pouvez enregistrer ce rappel comme événement type ou comme événement personnel.
+
+Dans le premier cas, choisissez parmi plusieurs intitulés de rappels.
+
+.. AJOUTER SCREENSHOT AVEC PLUSIEURS TYPES EXISTANTS
+
+Dans le second cas, rentrez le nom que vous souhaitez donner au rendez-vous.
+
+.. image:: images/screenshot_planning_perso.png
+
+Vous pouvez aussi lier une note à l'événement, choisir ou non une fréquence de répétition et donner à cette répétition une limitation temporelle.
+
+.. error:: Plus possible dans iCure 4 ?
+
+Vous pouvez enregistrer cet événement personnalisé comme événement type.
+Lors du prochain rappel, il se trouvera dans la liste d'événements type proposés.
+
+.. DOC PAGE 67
 
 Introduire des données dans un dossier patient
 ==============================================
