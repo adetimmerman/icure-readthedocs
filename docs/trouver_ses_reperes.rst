@@ -678,7 +678,13 @@ Les dossiers patients.
 
 Lorsque vous créez un nouveau patient ou que vous voulez modifier des données de sa fiche administrative.
 
-Sélectionnez le nom du patient
+Sélectionnez le nom du patient |screenshot_en-tete_patient|.
+
+La fiche administrative s'affiche sur la droite de la fenêtre.
+
+.. image:: images/screenshot_fiche_administrative.png
+
+Cliquez dans le champ à modifier ou à remplir.
 
 Introduire des données dans un dossier patient
 ==============================================
