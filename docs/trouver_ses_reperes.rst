@@ -731,6 +731,46 @@ Vous trouverez plus de détails sur l'encodage d'un nouveau médecin dans le poi
 
 .. |bouton_new_doctor| image:: images/bouton_new_doctor.png
 
+Fichiers. |icon_files|
+----------------------
+
+Lorsque vous êtes dans le dossier d'un de vos patients, iCure vous permet de visualiser en un clic les documents qui lui sont rattachés.
+Vous pouvez rapidement ajouter un fichier et, si vous le désirez, visualisez l'entièreté des fichiers attenants à un éléments en lançant un diaporama.
+
+.. admonition::
+  Pour ajouter un ou plusieurs fichiers :
+
+  1. Cliquez sur l'icône pour visualiser les fichiers attentants au dossier.
+  2. Lancez le diaporama avec le bouton d'action |bouton_action_menu|.
+  3. Ajoutez un fichier par "Glisser-déposer" ou avec le |icon_+|.
+
+Cliquez sur l'icône fichier dans la zone de fauche de la fenêtre iCure.
+
+.. image:: images/screenshot_files.png
+
+.. error:: rien dans iCure 4 ?
+
+Cet élément Fichiers |icon_files| sert à visualiser rapidement les documents affiliés au dossier patient sélectionné.
+Il est donc possible de les faire défiler sous forme de diaporama.
+
+Pour ce faire, utilisez le bouton d'actions |bouton_action_menu| et sélectionnez "Démarrer le diaporama".
+
+.. image:: images/screenshot_menu_action_diapo.png
+
+Sélectionnez l'élément donc vous voulez voir les fichiers, par exemple, une démarche |icon_demarche|.
+Dans ce cas, seuls les documents contenus dans cette démarche s'afficheront dans le diaporama.
+
+**Pour ajouter un nouveau fichier**, cliquez sur le |icon_+| en bas à gauche dans le tableau.
+
+La fenêtre classique d'importation de document s'affiche.
+
+Sélectionnez le fichier que vous voulez importer puis cliquez sur ouvrir.
+
+Il est également possible d'importer un fichier par "Glisser-Déposer" sur l'élément où vous voulez l'importer.
+
+**Remarque** : Il n'est pas possible d'importer un fichier de laboratoire de cette façon.
+Pour ce faire, allez voir le point de manuel concernant ce sujet.
+
 .. DOC PAGE 63
 
 Introduire des données dans un dossier patient
